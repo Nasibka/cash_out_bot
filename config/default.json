@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "db": "mongodb://127.0.0.1:27017/letostoreBot",
+        "port": "8001",
+        "url": "localhost",
+        "botToken": "1502903250:AAFEYqkEkk5wvZZN01d_SiyAZtKS9nsamSI"
+    },
+    "devv":{
+        "botToken": "1685759017:AAFLznLva8a1DNhV-PR63gcfObHDr9-LbtQ"
+    },
+    "prod":{
+        "botToken": "1502903250:AAFEYqkEkk5wvZZN01d_SiyAZtKS9nsamSI"
+    }
+}
